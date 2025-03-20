@@ -142,7 +142,7 @@ print(liste[5:])
 (parcours-liste)=
 ## Parcours d'une liste
 
-Lorsque l'on parcourt une liste, on peut vouloir accéder :
+### Lorsque l'on parcourt une liste, on peut vouloir accéder :
 
 * aux éléments stockés dans la liste uniquement ;
 * aux indices de la liste uniquement (même si c'est rare) ;
